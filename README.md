@@ -1,5 +1,5 @@
 # Zillow_Kaggle_Competition
-Zillow log error prediction model
+Zillow log error Prediction Model
 
 
 ## INTRODUCTION
