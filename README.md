@@ -24,14 +24,14 @@ Zillow log error Prediction Model
 * Data Source : [Zillow Kaggle Data](https://www.kaggle.com/c/zillow-prize-1/data)
 
 * File descriptions
-properties_2016.csv - all the properties with their home features for 2016. Note: Some 2017 new properties don't have any data yet except for their parcelid's. Those data points should be populated when properties_2017.csv is available.
-properties_2017.csv - all the properties with their home features for 2017 (released on 10/2/2017)
-train_2016.csv - the training set with transactions from 1/1/2016 to 12/31/2016
-train_2017.csv - the training set with transactions from 1/1/2017 to 9/15/2017 (released on 10/2/2017)
-sample_submission.csv - a sample submission file in the correct format
+    * properties_2016.csv - all the properties with their home features for 2016. Note: Some 2017 new properties don't have any data yet except for their parcelid's. Those data points should be populated when properties_2017.csv is available.
+    * properties_2017.csv - all the properties with their home features for 2017 (released on 10/2/2017)
+    * train_2016.csv - the training set with transactions from 1/1/2016 to 12/31/2016
+    * train_2017.csv - the training set with transactions from 1/1/2017 to 9/15/2017 (released on 10/2/2017)
+    * sample_submission.csv - a sample submission file in the correct format
 
 * Data fields
-Please refer to zillow_data_dictionary.xlsx
+    * Please refer to zillow_data_dictionary.xlsx
 
 ## PREPROCESSING
 
