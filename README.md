@@ -1,4 +1,4 @@
-# -----------------Zillow Kaggle Competition ------------------
+# ------------------Zillow Kaggle Competition ----------------
 Zillow log error Prediction Model
 
 
