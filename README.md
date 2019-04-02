@@ -1,4 +1,4 @@
-# -------------------Zillow Kaggle Competition --------------
+# -----------------Zillow Kaggle Competition ------------------
 Zillow log error Prediction Model
 
 
@@ -32,6 +32,11 @@ Zillow log error Prediction Model
 
 * Data fields
     * Please refer to zillow_data_dictionary.xlsx
+    
+## DEPENDENCIES
+
+1. Matplotlib
+    * conda install pandas xlrd matplotlib scikit-learn
 
 ## PREPROCESSING
 
