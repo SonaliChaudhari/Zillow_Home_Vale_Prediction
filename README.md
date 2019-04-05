@@ -39,10 +39,12 @@ Zillow log error Prediction Model
     * conda install pandas xlrd matplotlib scikit-learn
 
 ## PREPROCESSING
-1. Data Overview 
-2. Explore Raw Data
+1. Raw Data Overview 
 3. Merging the poperties and target datasets
 4. Writing the merged data to CSV
 
-## EXPLORATION AND WRANGLING
-1. Dealing with Null values
+## EXPLORATION
+1. Null values
+2. Date and target column data distribution
+3. Unique values for each column
+4. Duplicate parcelid 
