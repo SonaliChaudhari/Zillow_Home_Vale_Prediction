@@ -4,7 +4,7 @@ Zillow log error Prediction Model
 
 ## INTRODUCTION
 
-* Zillow is an online real estate database with data on homes across the United States. One of Zillow’s most popular features is a proprietary property value prediction algorithm: the Zestimate.  As one might imagine, Zillow is constantly trying to improve its Zestimate.  To help advance its accuracy even further,  it launched a Kaggle competition with a $1.2 million prize. 
+* Zillow is an online real estate database with data on homes across the United States. One of Zillow’s most popular features is a proprietary property value prediction algorithm: the Zestimate.
 
 ## PROBLEM DEFINITION
 
@@ -38,7 +38,7 @@ Zillow log error Prediction Model
 1. Matplotlib
     * conda install pandas xlrd matplotlib scikit-learn
 
-## PREPROCESSING
+## DATA PREP
 1. Raw Data Overview 
 3. Merging the poperties and target datasets
 4. Writing the merged data to CSV
@@ -48,3 +48,6 @@ Zillow log error Prediction Model
 2. Date and target column data distribution
 3. Unique values for each column
 4. Duplicate parcelid 
+
+## PREPROCESSING
+
