@@ -50,8 +50,10 @@ Zillow log error Prediction Model
 4. Duplicate parcelid 
 
 ## PREPROCESSING
-1. 
-2. 
-3. 
-4. 
+Created a preprocessor object performing the following steps for making data ready for the model:
+1. Dealing with Null values
+2. Encoding categorical data
+3. Dealing 'transactiondate' column
+4. Dealing with parcelId and columns with high cardinality
+
 
