@@ -50,4 +50,8 @@ Zillow log error Prediction Model
 4. Duplicate parcelid 
 
 ## PREPROCESSING
+1. 
+2. 
+3. 
+4. 
 
