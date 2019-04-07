@@ -38,22 +38,37 @@ Zillow log error Prediction Model
 1. Matplotlib
     * conda install pandas xlrd matplotlib scikit-learn
 
-## DATA PREP
-1. Raw Data Overview 
-3. Merging the poperties and target datasets
-4. Writing the merged data to CSV
+## * DATA PREP
+STEPS:
+    1. Raw Data Overview 
+    3. Merging the poperties and target datasets
+    4. Writing the merged data to CSV
 
-## EXPLORATION
-1. Null values
-2. Date and target column data distribution
-3. Unique values for each column
-4. Duplicate parcelid 
+## * EXPLORATION
+Includes exploratory data analysis (EDA) and exploring the following:
+    1. Null values
+    2. Date and target column data distribution
+    3. Unique values for each column
+    4. Duplicate parcelid 
 
-## PREPROCESSING
+## * PREPROCESSING
 Created a preprocessor object performing the following steps for making data ready for the model:
-1. Dealing with Null values
-2. Encoding categorical data
-3. Dealing 'transactiondate' column
-4. Dealing with parcelId and columns with high cardinality
+    1. Dealing with Null values
+    2. Encoding categorical data
+    3. Dealing 'transactiondate' column
+    4. Dealing with parcelId and columns with high cardinality
+
+## * IMPLEMENTING MODEL
+Includes base model implementation and tuning of the models for best results possible.
+Algorithms implemented:
+    1. Gradient Boosting algorithm
+    2. Random Forest
+    3. Linear Regression
+K-fold cross-validation was performed in order to prevent overfitting and search for the optimal hyperparameter settings over a tuning grid.
+
+## * COMBINING ABOVE STEPS INTO SINGLE FILE
+Integrating all the steps of the datapipeline into a single file.
+
+## RESULTS
 
 
