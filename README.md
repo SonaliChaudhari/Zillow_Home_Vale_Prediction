@@ -66,9 +66,8 @@ Algorithms implemented:
     3. Linear Regression
 K-fold cross-validation was performed in order to prevent overfitting and search for the optimal hyperparameter settings over a tuning grid.
 
-## * COMBINING ABOVE STEPS INTO SINGLE FILE
-Integrating all the steps of the datapipeline into a single file.
-
 ## RESULTS
+Random forest : MAE :0.069
+GBM		        : MAE =0.066
 
 
